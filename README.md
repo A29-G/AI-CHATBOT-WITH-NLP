@@ -1,6 +1,20 @@
 # AI-CHATBOT-WITH-NLP
 
-### Chatbot Using Python 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: AISHWARYA VEERANAGOUDA GIRIYAL
+
+INTERN ID: CT04WU10
+
+DOMAIN: PYTHON PROGRAMMING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
+
+DESCRIPTION
+
+###Project Description: AI-CHATBOT-WITH-NLP
 
 This project is a **basic chatbot** made using Python, machine learning, and natural language processing (NLP). The chatbot is designed to understand and reply to simple user inputs like greetings, farewells, and questions about its identity. It is trained using a file that contains a list of possible user questions and the correct responses. These are called **intents**.
 
@@ -54,6 +68,8 @@ This project is a **basic chatbot** made using Python, machine learning, and nat
 2. The bot processes your message and converts it into numbers.
 3. The model guesses what you meant (like a greeting).
 4. The bot replies with a matching answer.
+
+
 
 
 
