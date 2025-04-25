@@ -71,9 +71,10 @@ This project is a **basic chatbot** made using Python, machine learning, and nat
 
 
 
-
-
 ### Conclusion
 
 This project is a great starting point for learning about chatbots. It uses simple concepts from Python, machine learning, and NLP. You can easily change the chatbot’s behavior by editing the `intents.json` file. It can be improved by adding more data, more advanced models, or even voice features in the future.
 
+*OUTPUT*
+
+https://github.com/A29-G/AI-CHATBOT-WITH-NLP/issues/1#issue-3018956801
