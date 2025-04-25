@@ -1,25 +1,32 @@
 {
-    "intents": [
-      {
-        "tag": "greeting",
-        "patterns": ["Hi", "Hello", "Hey", "Good morning"],
-        "responses": ["Hello!", "Hi there!", "Greetings!"]
-      },
-      {
-        "tag": "goodbye",
-        "patterns": ["Bye", "See you", "Goodbye"],
-        "responses": ["Bye!", "Take care!", "See you soon!"]
-      },
-      {
-        "tag": "thanks",
-        "patterns": ["Thanks", "Thank you", "That's helpful"],
-        "responses": ["You're welcome!", "Glad to help!", "Anytime!"]
-      },
-      {
-        "tag": "name",
-        "patterns": ["What is your name?", "Who are you?"],
-        "responses": ["I'm a chatbot created using Python and NLP."]
-      }
-    ]
-  }
-  
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi", "Hello", "Hey", "Good morning", "Good afternoon", "Hey there", "Hello there"
+      ],
+      "responses": ["Hello!", "Hi there!", "Greetings!"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye", "See you", "Goodbye", "Farewell", "Take care", "See you later"
+      ],
+      "responses": ["Bye!", "Take care!", "See you soon!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks", "Thank you", "That's helpful", "Thanks a lot", "Thanks so much", "I appreciate it"
+      ],
+      "responses": ["You're welcome!", "Glad to help!", "Anytime!"]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "What is your name?", "Who are you?", "Tell me your name", "What's your name?"
+      ],
+      "responses": ["I'm a chatbot created using Python and NLP."]
+    }
+  ]
+}
